@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 
 <!--
 **CookOLo/CookOLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Currently working on [autonomous movement of an EV3 Car through a maze](https://github.com/CookOLo/EV3Car)
+- Currently learning Java and MATLAB
+- Looking for a Summer 2025 Internship
+- Hopefully will be creating more projects!
