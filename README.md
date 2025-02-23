@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently working on [autonomous movement of an EV3 Car through a maze](https://github.com/CookOLo/EV3Car) and [my Portfolio](https://github.com/CookOLo/NewPortfolio)
-- Currently learning Java and MATLAB
+- Currently working on [my Portfolio](https://github.com/CookOLo/NewPortfolio)
+- Currently learning Java
 - Looking for a Summer 2025 Internship
 - Will always be working on at least one project!
