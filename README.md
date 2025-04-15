@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently working on [my Portfolio](https://github.com/CookOLo/NewPortfolio)
 - Currently learning Java
-- Looking for a Summer 2025 Internship
-- Will always be working on at least one project!
+- Looking for a Summer 2026 Internship
