@@ -23,9 +23,9 @@ As a student in Digital Forensics, I am constantly trying to learn more about th
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Markdown and Archiving | <a href="https://unofficialasuwiki.miraheze.org/wiki/Main_Page">Unofficial ASU Community Wiki</a>|
-| Documnetation with a Wiki Format | <a href="https://unofficialasuwiki.miraheze.org/wiki/Main_Page">Unofficial ASU Community Wiki</a>|
-| OSINT | <a href="https://unofficialasuwiki.miraheze.org/wiki/Main_Page">Unofficial ASU Community Wiki</a>|
+| Markdown and Archiving | <a href="https://github.com/CookOLo/unofficialasuwiki">Unofficial ASU Community Wiki</a>|
+| Documnetation with a Wiki Format | <a href="https://github.com/CookOLo/unofficialasuwiki">Unofficial ASU Community Wiki</a>|
+| OSINT | <a href="https://github.com/CookOLo/unofficialasuwiki">Unofficial ASU Community Wiki</a>|
 | Scripting for Automated EV3 Car with Matlab          | <a href="https://github.com/CookOLo/EV3Car">EV3 Automated Car</a>|
 
 
